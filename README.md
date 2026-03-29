@@ -18,7 +18,7 @@ This repo contains all the programs, concepts, and practice problems I am learni
 
 | No. | Topic            | Description              | Link |
 |-----|-----------------|--------------------------|------|
-| 01  | First Program   | Basic C++ program        | [View Code](./01_First_Program/) |
+| 01  | First Program   | Basic C++ program        | [View Code](First.cpp/) |
 
 ---
 
