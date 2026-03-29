@@ -16,10 +16,12 @@ This repo contains all the programs, concepts, and practice problems I am learni
 
 ## 🗂️ Folder Structure
 
-| No. | Topic            | Description              | Link |
-|-----|-----------------|--------------------------|------|
-| 01  | First Program   | Basic C++ program        | [View Code](First.cpp/) |
-
+| No. | Topic            | Link                          |
+|-----|-----------------|--------------------------------|
+| 01  | First Program   |  [View Code](First.cpp/) |
+| 01  | Second Program   |  [View Code](Second.cpp/) |
+| 01  | Third Program   | [View Code](Third.cpp/) |
+| 01  | Fourth Program   | [View Code](Fouth.cpp/) |
 ---
 
 ## 💡 Topics Covered
